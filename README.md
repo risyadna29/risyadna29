@@ -2,7 +2,7 @@
 
 🧑🏻‍💻 Software Engineer sharing my learning results in software and tech<br/>
 🧑🏻‍🎓 Studied [Software Engineer](https://youtu.be/KXxCkeu-5ks?si=ikGKKA7apm18hBWo) at Institut Teknologi Sepuluh Nopember, Surabaya<br/>
-📝 Have an interest in design, development, and architecture<br/>
+📝 Have an interest in development and architecture<br/>
 
 ![Risyad's GitHub stats](https://github-readme-stats.vercel.app/api?username=risyadna29&show_icons=true&theme=algolia)
 
